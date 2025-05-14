@@ -3,7 +3,7 @@
 Tools Used: Microsoft Excel (Pivot Tables, Slicers, Charts)
 Dataset Size: 12 Months of Sales Data
 
-# Project Objective :-
+Project Objective :-
 
 To automate the annual sales report and perform trend analysis for inventory and sales forecasting.
 
